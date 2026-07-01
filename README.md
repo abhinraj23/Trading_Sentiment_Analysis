@@ -14,7 +14,7 @@ This project explores the relationship between cryptocurrency market sentiment a
 
 ## Project Files
 
-- `analysis.py` – Complete Python script used for data cleaning, analysis and visualization
+- `Market_analysis.py` – Complete Python script used for data cleaning, analysis and visualization
 - `Market_Sentiment_Report.docx` – Detailed report with methodology, findings and business recommendations
 - `graph1.png` to `graph4.png` – Visualizations generated during the analysis
 
